@@ -63,7 +63,8 @@ make
 ```
 If you have done this correclty you should see 2/2 Test cases passing highlighted in green. Congragulations! You have ran your first program in C++! This project will be required for lab programming exercises and project as well!. 
 
-There were alot details that I glanced over like what the docker and terminal programs if you are not familiar with them.
+There were alot details that I glanced over like what the docker,terminal programs are as well as google tests. Wednesday we will go over more closely what everything does. For today just focus on getting your IDE set up.
+
 ## 12. Summary
 
 - Docker ensure every student has the same environment
