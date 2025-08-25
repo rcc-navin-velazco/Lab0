@@ -1,0 +1,10 @@
+{
+  "name": "Lab0 C++ Container",
+  "dockerComposeFile": ["../compose.yaml"],   // relative to .devcontainer folder
+  "service": "lab0",                          // must match the service name in compose.yaml
+  "workspaceFolder": "/mnt/project",
+  "remoteUser": "vscode",
+  "extensions": [
+    "ms-vscode.cpptools"
+  ]
+}
