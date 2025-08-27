@@ -34,8 +34,9 @@ Developer Command Prompt Program should be installed on your computer. Run it by
 
 ```bash
 cd /
-mkdir Users/[user_name]/CIS_Projects
-cd Users/[user_name]/CIS_Projects
+cd Users/[user_name]
+mkdir CIS_5_Projects
+cd CIS_5_Projects
 mkdir Lab0
 cd Lab0
 echo. > main.cpp
